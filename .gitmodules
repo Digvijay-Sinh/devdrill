@@ -1,0 +1,6 @@
+[submodule "devdrill-frontend"]
+	path = devdrill-frontend
+	url = https://github.com/Digvijay-Sinh/devdrill-frontend.git
+[submodule "devdrill-backend"]
+	path = devdrill-backend
+	url = https://github.com/Digvijay-Sinh/devdrill-backend.git
